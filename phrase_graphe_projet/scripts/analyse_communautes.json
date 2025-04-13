@@ -1,0 +1,637 @@
+{
+  "modularite": 0.7367456681722414,
+  "communautes": {
+    "0": {
+      "mots": [
+        "définition",
+        "détaillé",
+        "réglementation",
+        "personnalités",
+        "risques",
+        "existentiels",
+        "risque",
+        "existentiel",
+        "parlementaire",
+        "régime",
+        "présidentiel",
+        "assemblée",
+        "cyberdémocratie"
+      ],
+      "theme": "politique",
+      "taille": 13
+    },
+    "4": {
+      "mots": [
+        "supervisé",
+        "automatiquement",
+        "généré",
+        "partir",
+        "données",
+        "annoté",
+        "générant",
+        "descriptions",
+        "textuelles",
+        "midjourney",
+        "popularisés",
+        "fausses",
+        "actualité",
+        "générées"
+      ],
+      "theme": "technologie",
+      "taille": 14
+    },
+    "2": {
+      "mots": [
+        "logique",
+        "utilisée",
+        "raisonnement",
+        "représentation",
+        "connaissances",
+        "télévisée",
+        "série",
+        "apparence",
+        "commencent",
+        "comportements",
+        "imprévisibles",
+        "résoudre",
+        "enquêtes",
+        "démosthène",
+        "époque",
+        "caractéristique",
+        "ouvrage",
+        "ancienne",
+        "surtout",
+        "connut",
+        "classique",
+        "louis",
+        "couturat",
+        "réed"
+      ],
+      "theme": "philosophie",
+      "taille": 24
+    },
+    "3": {
+      "mots": [
+        "réseaux",
+        "bayésiens"
+      ],
+      "theme": "autre",
+      "taille": 2
+    },
+    "10": {
+      "mots": [
+        "comme",
+        "certains",
+        "travaux",
+        "déjà",
+        "décrit",
+        "étincelles",
+        "générale",
+        "connu",
+        "directeur",
+        "scientifique",
+        "créateur",
+        "coursera",
+        "société",
+        "américain",
+        "crée",
+        "comment",
+        "chaise",
+        "développée",
+        "auteurs",
+        "spécialiste",
+        "informatique",
+        "pourrait",
+        "destination",
+        "manière",
+        "émergence",
+        "adversaires",
+        "télévisé",
+        "outil",
+        "gouverner",
+        "peuple",
+        "devenue",
+        "faibles",
+        "léon",
+        "gérôme",
+        "désignait",
+        "conception",
+        "création",
+        "pourparlers"
+      ],
+      "theme": "autre",
+      "taille": 38
+    },
+    "6": {
+      "mots": [
+        "sont",
+        "textuellement",
+        "répondent",
+        "questions",
+        "jacques",
+        "plusieurs",
+        "spécialisées",
+        "créneau",
+        "créant",
+        "domaine",
+        "pensée",
+        "orient",
+        "édouard",
+        "emmanuel",
+        "puis",
+        "représentants",
+        "développement",
+        "fixées",
+        "déterminées",
+        "principaux",
+        "courant",
+        "gilles",
+        "désigne",
+        "éloigné",
+        "commença",
+        "sous",
+        "expansion",
+        "particulièrement",
+        "catégorie",
+        "hsue",
+        "chinois",
+        "écoles",
+        "connues",
+        "beauvoir",
+        "entrées",
+        "phédon",
+        "lévinas",
+        "totalité",
+        "extériorité"
+      ],
+      "theme": "philosophie",
+      "taille": 39
+    },
+    "26": {
+      "mots": [
+        "pionnier",
+        "traitement",
+        "automatique",
+        "langues",
+        "français",
+        "symbolique",
+        "économiste",
+        "plupart",
+        "empiriques",
+        "résultats"
+      ],
+      "theme": "technologie",
+      "taille": 10
+    },
+    "8": {
+      "mots": [
+        "vecteurs",
+        "inventeur"
+      ],
+      "theme": "autre",
+      "taille": 2
+    },
+    "9": {
+      "mots": [
+        "connexe",
+        "robotique",
+        "autonomie"
+      ],
+      "theme": "technologie",
+      "taille": 3
+    },
+    "11": {
+      "mots": [
+        "première",
+        "virtuelle",
+        "lors",
+        "réplique",
+        "concours",
+        "élections",
+        "générales",
+        "africaines",
+        "cicéron",
+        "avoir",
+        "poème",
+        "lucrèce",
+        "créé",
+        "démantèlement",
+        "édition"
+      ],
+      "theme": "autre",
+      "taille": 15
+    },
+    "18": {
+      "mots": [
+        "corée",
+        "hypérion",
+        "œuvre",
+        "évoque",
+        "plus",
+        "dictaient",
+        "état",
+        "représentatif",
+        "démocratique",
+        "norvège",
+        "moins",
+        "milieu",
+        "dernière",
+        "considérée",
+        "déviation",
+        "critique",
+        "complexité",
+        "souvent",
+        "rationalité",
+        "averroès",
+        "produit",
+        "œuvres",
+        "islamique",
+        "débat",
+        "penseurs"
+      ],
+      "theme": "philosophie",
+      "taille": 25
+    },
+    "13": {
+      "mots": [
+        "étudiée",
+        "années"
+      ],
+      "theme": "autre",
+      "taille": 2
+    },
+    "14": {
+      "mots": [
+        "science",
+        "décembre",
+        "consulté",
+        "échos",
+        "août",
+        "fuse",
+        "lire",
+        "entreprise",
+        "ouverte",
+        "fermée",
+        "rougier",
+        "récemment",
+        "étienne",
+        "idée",
+        "appliquée",
+        "droits",
+        "suisse",
+        "référendum",
+        "intérêt",
+        "général",
+        "politique",
+        "philosophique",
+        "néanmoins",
+        "déclaration",
+        "université",
+        "latest",
+        "nouveau",
+        "traité",
+        "février",
+        "sénécat",
+        "deux",
+        "chantre",
+        "citoyenne",
+        "décodeurs",
+        "premiers",
+        "premières",
+        "causes",
+        "systématisation",
+        "leur",
+        "appelé",
+        "andré",
+        "sponville",
+        "dictionnaire",
+        "radieux",
+        "europe",
+        "laurent",
+        "pourquoi"
+      ],
+      "theme": "philosophie",
+      "taille": 47
+    },
+    "15": {
+      "mots": [
+        "états",
+        "européenne",
+        "unis",
+        "royaume",
+        "sécurité",
+        "lieu",
+        "illustre"
+      ],
+      "theme": "autre",
+      "taille": 7
+    },
+    "16": {
+      "mots": [
+        "signataires",
+        "trouvent"
+      ],
+      "theme": "autre",
+      "taille": 2
+    },
+    "17": {
+      "mots": [
+        "théorie",
+        "avancée",
+        "expérience",
+        "chambre",
+        "chinoise"
+      ],
+      "theme": "autre",
+      "taille": 5
+    },
+    "19": {
+      "mots": [
+        "idées",
+        "réalisé",
+        "même",
+        "inspiré",
+        "nouvelle",
+        "supertoys",
+        "durent",
+        "siècle",
+        "restrictions",
+        "parlement",
+        "pouvoir",
+        "leçon",
+        "seuil",
+        "périclès",
+        "quotidienne",
+        "flacelière",
+        "grèce",
+        "citoyenneté",
+        "athènes",
+        "commence",
+        "poursuit",
+        "double",
+        "sénèque",
+        "portrait",
+        "représente",
+        "droite",
+        "représentés",
+        "aurèle",
+        "empereur",
+        "école",
+        "néoplatonicienne",
+        "ordonnée",
+        "constitue",
+        "troisième",
+        "blessure",
+        "narcissique",
+        "brièveté",
+        "épictète",
+        "pensées",
+        "trois"
+      ],
+      "theme": "politique",
+      "taille": 40
+    },
+    "20": {
+      "mots": [
+        "également",
+        "scénario",
+        "entre",
+        "france",
+        "pratiqué",
+        "lorsque",
+        "chargée",
+        "établir",
+        "jusqu",
+        "aujourd",
+        "employé",
+        "moindre",
+        "mesure",
+        "exceptionnel",
+        "espagne",
+        "républiques",
+        "pyrénéennes",
+        "réflexions",
+        "autres",
+        "épicure",
+        "médiévale",
+        "caractérisée",
+        "animée",
+        "guillaume",
+        "antiques",
+        "presses",
+        "déclin",
+        "essor"
+      ],
+      "theme": "histoire",
+      "taille": 28
+    },
+    "21": {
+      "mots": [
+        "auteur",
+        "après",
+        "tocqueville",
+        "étude",
+        "réflexion",
+        "sociologique",
+        "jacqueline",
+        "grecque",
+        "collection",
+        "dialectique",
+        "pratique",
+        "caractéristiques",
+        "méthode",
+        "ceux",
+        "utiliseront",
+        "basée",
+        "appelés",
+        "groupe",
+        "littérature",
+        "présocratiques"
+      ],
+      "theme": "autre",
+      "taille": 20
+    },
+    "23": {
+      "mots": [
+        "détaillés",
+        "échecs",
+        "libérale",
+        "démocratie",
+        "méditerranéenne",
+        "antiquité",
+        "athénienne",
+        "assemblées",
+        "romaines",
+        "république",
+        "présentant",
+        "année",
+        "entretien",
+        "universitaires",
+        "vidéo",
+        "dupuis",
+        "déri",
+        "amérique",
+        "quatrième",
+        "partie",
+        "chapitre",
+        "sixième",
+        "françoise",
+        "suite",
+        "fondateurs",
+        "septembre",
+        "montesquieu",
+        "suffrage",
+        "dominique",
+        "séglard"
+      ],
+      "theme": "politique",
+      "taille": 30
+    },
+    "24": {
+      "mots": [
+        "constitution",
+        "sparte",
+        "contraire",
+        "louait",
+        "autre",
+        "cité",
+        "était",
+        "sévèrement",
+        "sieyès",
+        "contradicteur",
+        "théories",
+        "rousseau",
+        "ultérieurement",
+        "reprises",
+        "livre",
+        "oraison",
+        "prononcée",
+        "coulanges",
+        "antique",
+        "amour",
+        "points",
+        "précurseur",
+        "écrivaine",
+        "britannique",
+        "discours"
+      ],
+      "theme": "politique",
+      "taille": 25
+    },
+    "27": {
+      "mots": [
+        "cinéma",
+        "rendu",
+        "célèbre",
+        "monsieur",
+        "joué"
+      ],
+      "theme": "autre",
+      "taille": 5
+    },
+    "28": {
+      "mots": [
+        "éditions",
+        "rancière",
+        "fabrique",
+        "détail",
+        "péloponnèse",
+        "matérialisme",
+        "matériaux",
+        "philosophiques",
+        "scientifiques",
+        "sciences",
+        "épistémologie",
+        "matériologiques"
+      ],
+      "theme": "autre",
+      "taille": 12
+    },
+    "30": {
+      "mots": [
+        "pénale",
+        "procédure",
+        "paragraphe"
+      ],
+      "theme": "autre",
+      "taille": 3
+    },
+    "31": {
+      "mots": [
+        "orateurs",
+        "révolution",
+        "française"
+      ],
+      "theme": "autre",
+      "taille": 3
+    },
+    "1": {
+      "mots": [
+        "droit",
+        "étymologie",
+        "peut",
+        "différentes"
+      ],
+      "theme": "autre",
+      "taille": 4
+    },
+    "5": {
+      "mots": [
+        "déterminer",
+        "aisé"
+      ],
+      "theme": "autre",
+      "taille": 2
+    },
+    "7": {
+      "mots": [
+        "penseur",
+        "connaissance",
+        "complète"
+      ],
+      "theme": "autre",
+      "taille": 3
+    },
+    "12": {
+      "mots": [
+        "phénoménologiques",
+        "herméneutiques",
+        "cnrs",
+        "dirigé",
+        "ricœur",
+        "avenue",
+        "parmentier",
+        "herméneutique",
+        "représentée"
+      ],
+      "theme": "autre",
+      "taille": 9
+    },
+    "22": {
+      "mots": [
+        "écrit",
+        "phèdre",
+        "seul"
+      ],
+      "theme": "autre",
+      "taille": 3
+    },
+    "25": {
+      "mots": [
+        "éthique",
+        "livres"
+      ],
+      "theme": "autre",
+      "taille": 2
+    },
+    "29": {
+      "mots": [
+        "évolution",
+        "maspéro",
+        "chinoises"
+      ],
+      "theme": "autre",
+      "taille": 3
+    }
+  }
+}

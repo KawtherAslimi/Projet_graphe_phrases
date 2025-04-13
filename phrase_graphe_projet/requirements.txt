@@ -1,0 +1,9 @@
+requests
+beautifulsoup4
+lxml
+spacy
+networkx
+matplotlib
+python-louvain
+spicy
+pyvis
